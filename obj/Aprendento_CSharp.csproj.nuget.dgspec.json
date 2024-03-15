@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp\\Aprendento_CSharp.csproj": {}
+    "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp\\Aprendento_CSharp.csproj": {
+    "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp\\Aprendento_CSharp.csproj",
+        "projectUniqueName": "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp.csproj",
         "projectName": "Aprendento_CSharp",
-        "projectPath": "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp\\Aprendento_CSharp.csproj",
+        "projectPath": "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucass Desenvolvimento\\Aula_CSharp\\Aprendento_CSharp\\obj\\",
+        "outputPath": "C:\\Lucass Desenvolvimento\\Aula_CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

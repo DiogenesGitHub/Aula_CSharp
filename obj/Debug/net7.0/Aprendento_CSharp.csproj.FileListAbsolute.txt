@@ -1,0 +1,14 @@
+C:\Lucass Desenvolvimento\Aula_CSharp\bin\Debug\net7.0\Aprendento_CSharp.exe
+C:\Lucass Desenvolvimento\Aula_CSharp\bin\Debug\net7.0\Aprendento_CSharp.deps.json
+C:\Lucass Desenvolvimento\Aula_CSharp\bin\Debug\net7.0\Aprendento_CSharp.runtimeconfig.json
+C:\Lucass Desenvolvimento\Aula_CSharp\bin\Debug\net7.0\Aprendento_CSharp.dll
+C:\Lucass Desenvolvimento\Aula_CSharp\bin\Debug\net7.0\Aprendento_CSharp.pdb
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\Aprendento_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\Aprendento_CSharp.AssemblyInfoInputs.cache
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\Aprendento_CSharp.AssemblyInfo.cs
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\Aprendento_CSharp.csproj.CoreCompileInputs.cache
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\Aprendento_CSharp.dll
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\refint\Aprendento_CSharp.dll
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\Aprendento_CSharp.pdb
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\Aprendento_CSharp.genruntimeconfig.cache
+C:\Lucass Desenvolvimento\Aula_CSharp\obj\Debug\net7.0\ref\Aprendento_CSharp.dll
